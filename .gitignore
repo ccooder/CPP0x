@@ -1,0 +1,10 @@
+*.*
+Chapter2/*
+handouts/*
+!*.cc
+!Makefile
+!*.c
+!*.cpp
+!*.h
+!.gitignore
+!*.docx
