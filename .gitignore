@@ -1,6 +1,8 @@
 *.*
 Chapter2/*
 handouts/*
+Chapter8/*
+Chapter9/*
 !*.cc
 !Makefile
 !*.c
