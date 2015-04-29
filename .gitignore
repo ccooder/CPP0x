@@ -11,3 +11,4 @@ Chapter9/*
 !*.h
 !.gitignore
 !*.docx
+!*.pdf
