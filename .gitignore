@@ -1,9 +1,6 @@
 *.*
-Chapter02/*
-Chapter03/*
+Chapter*/*
 handouts/*
-Chapter08/*
-Chapter09/*
 !Chapter08/1
 !Chapter08/2
 !*.cc
